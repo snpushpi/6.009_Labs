@@ -1,2 +1,2 @@
 # MIT_projects
-I am posting my projects I have finished here in MIT
+I have posted all the projects I have finished each week as a part of my programming course.
